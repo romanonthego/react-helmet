@@ -9,5 +9,6 @@ export const TAG_PROPERTIES = {
     HTTPEQUIV: "http-equiv",
     REL: "rel",
     HREF: "href",
-    PROPERTY: "property"
+    PROPERTY: "property",
+    ITEMPROP: "itemprop"
 };
